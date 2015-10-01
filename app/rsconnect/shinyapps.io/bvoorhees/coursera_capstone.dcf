@@ -1,0 +1,8 @@
+name: coursera_capstone
+account: bvoorhees
+server: shinyapps.io
+bundleId: 248063
+url: https://bvoorhees.shinyapps.io/coursera_capstone
+when: 1440304128.15064
+asMultiple: FALSE
+asStatic: FALSE

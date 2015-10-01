@@ -1,0 +1,23 @@
+
+==================================================================
+# PredIt: Natural Language Processing & Predictive Text
+##Bennet Voorhees | bennet.voorhees@gmail.com
+
+**BASED ON DATA From:**  
+Coursera Data Science Capstone Project  
+
+##Link to application
+The final product can be found [here](http://bit.ly/1QN3v5x). Please allow the application a few moments to initialize. 
+
+##Description  
+This directory contains all of the slides, data, and files for my Coursera final project, which was creating an n-gram text prediction app (inspired by the SwiftKeyTM application for iOS and Android). 
+
+##This directory  includes the following:
+
+- `README.txt` - what you are reading at this very moment in time. 
+
+- `.R files` - files used to clean text corpora and develop prediction algorithm
+
+- slide deck: contains all of slides I used to make a pitch for the application for the course.  
+
+- app folder: contains the server.R and ui.R files to make the application in Shiny
