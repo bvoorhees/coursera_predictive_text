@@ -3,14 +3,16 @@
 # PredIt: Natural Language Processing & Predictive Text
 ##Bennet Voorhees | bennet.voorhees@gmail.com
 
-**BASED ON DATA From:**  
-Coursera Data Science Capstone Project  
+##Description  
+This project was the capstone project for the [Data Science Specialization Certificate](https://www.coursera.org/specializations/jhudatascience?utm_medium=courseDescripTop) offered via Coursera and the Johns Hopkins University. 
+
+The aim of the project was to build a text prediction app (inspired by the SwiftKeyTM application for iOS and Android). I develoepd the app in Shiny/R using a coprora of text from Twitter, news articles, and blogs. A naive bayes classifier algorithm is used to make predictions of the next word based on the previous n words. 
+
+This repo showcases all of the slides, data, and files for my Coursera final project, 
 
 ##Link to application
-The final product can be found [here](http://bit.ly/1QN3v5x). Please allow the application a few moments to initialize. 
+The application (developed in Shiny) can be found [here](http://bit.ly/1QN3v5x). Please allow the application a few moments to initialize. 
 
-##Description  
-This directory contains all of the slides, data, and files for my Coursera final project, which was creating an n-gram text prediction app (inspired by the SwiftKeyTM application for iOS and Android). 
 
 ##This directory  includes the following:
 
