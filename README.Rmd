@@ -6,7 +6,7 @@
 ##Description  
 This project was the capstone project for the [Data Science Specialization Certificate](https://www.coursera.org/specializations/jhudatascience?utm_medium=courseDescripTop) offered via Coursera and the Johns Hopkins University. 
 
-The aim of the project was to build a text prediction app (inspired by the SwiftKeyTM application for iOS and Android). I develoepd the app in Shiny/R using a coprora of text from Twitter, news articles, and blogs. A naive bayes classifier algorithm is used to make predictions of the next word based on the previous n words. 
+The aim of the project was to build a text prediction app (inspired by the SwiftKeyTM application for iOS and Android). I developed the app in Shiny/R using a coprora of text from Twitter, news articles, and blogs. A naive bayes classifier algorithm is used to make predictions of the next word based on the previous n words. 
 
 This repo showcases all of the slides, data, and files for my Coursera final project.
 
